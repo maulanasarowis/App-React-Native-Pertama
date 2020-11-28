@@ -8,7 +8,7 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "emulator-android": "~/AppData/local/Android/Sdk/emulator/emulator -avd Nexus_5"
+    "emulator-android": "~/AppData/local/Android/Sdk/emulator/emulator -avd Nexus5"
   },
   "dependencies": {
     "react": "16.13.1",

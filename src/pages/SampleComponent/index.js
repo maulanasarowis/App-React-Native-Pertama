@@ -4,6 +4,9 @@ import {Image, Text, TextInput, View} from 'react-native';
 const SampleComponent = () => {
   return (
     <View>
+      <Text style={{fontSize: 18, textAlign: 'center', marginTop: 40}}>
+        Materi Sample Component
+      </Text>
       <View style={{width: 80, height: 80, backgroundColor: '#2980b9'}} />
       <Text>Maulana</Text>
       <Maulana />

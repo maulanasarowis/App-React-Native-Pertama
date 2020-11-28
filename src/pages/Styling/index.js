@@ -1,10 +1,19 @@
 import React from 'react';
 import {Image, Text, View, StyleSheet} from 'react-native';
-import laptop from './11.jpg';
+import laptop from '../../assets/Image/11.jpg';
 
-const StylingReactNativeComponent = () => {
+const Styling = () => {
   return (
     <View>
+      <Text
+        style={{
+          fontSize: 18,
+          textAlign: 'center',
+          color: 'black',
+          marginTop: 40,
+        }}>
+        Materi Styling component
+      </Text>
       <Text style={styles.text}>Styling component</Text>
       <View
         style={{
@@ -67,4 +76,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default StylingReactNativeComponent;
+export default Styling;
