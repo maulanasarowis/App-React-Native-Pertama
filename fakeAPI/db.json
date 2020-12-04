@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Maulana Sarowis",
+      "email": "maulana@gmail.com",
+      "bidang": "RN Dev",
+      "id": 1
+    },
+    {
+      "name": "Milda Qolbun Nadifah",
+      "email": "milda@gmail.com",
+      "bidang": "RJ Dev",
+      "id": 3
+    },
+    {
+      "name": "Dilla Ummayyah",
+      "email": "dilla@gmail.com",
+      "bidang": "JavaScript",
+      "id": 4
+    }
+  ]
+}
