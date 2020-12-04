@@ -11,6 +11,7 @@
     "emulator-android": "~/AppData/local/Android/Sdk/emulator/emulator -avd Nexus5"
   },
   "dependencies": {
+    "axios": "^0.21.0",
     "react": "16.13.1",
     "react-native": "0.63.3",
     "react-native-svg": "^12.1.0",
